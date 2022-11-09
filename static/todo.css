@@ -9,8 +9,8 @@ body {
 }
 
 #todo-items h1 {
-    background-color: lightseagreen; width: 185px;
-    max-width: 185px; 
+    background-color: lightseagreen;
+    max-width: 160px;
     width: 100%;
 
 }
